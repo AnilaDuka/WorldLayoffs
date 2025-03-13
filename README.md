@@ -1,7 +1,3 @@
-# WorldLayoffs
-MySQL Layoffs Data Cleaning and Exploratory Analysis
-
-
 # Layoffs Data Analysis with MySQL
 
 This project focuses on cleaning and analyzing a dataset of company layoffs using MySQL. The process involves data cleaning, standardization, handling null values, and conducting exploratory data analysis (EDA) to uncover insights.
