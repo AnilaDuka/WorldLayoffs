@@ -25,4 +25,8 @@ This project focuses on cleaning and analyzing a dataset of company layoffs usin
 - `layoffs_cleaning.sql` — Contains all cleaning and transformation steps.
 - `layoffs_analysis.sql` — Contains exploratory queries for insights.
 
+## 📥 Data
+
+The dataset used in this project is publicly available and included in this repository as [`layoffs.csv`](./layoffs.csv). It contains information about company layoffs, including fields like `company`, `industry`, `total_laid_off`, `percentage_laid_off`, `date`, `stage`, and `country`.
+
 ---
